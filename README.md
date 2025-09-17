@@ -11,3 +11,8 @@ Step 2
 ```linux 
 sudo apt install love
 ```
+# How it works
+```lua
+NormalizeFitness()
+```
+This prepares possibilities for selection
