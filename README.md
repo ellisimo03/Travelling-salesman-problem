@@ -15,4 +15,4 @@ sudo apt install love
 ```lua
 NormalizeFitness()
 ```
-This prepares possibilities for selection
+This  function prepares possibilities for selection
