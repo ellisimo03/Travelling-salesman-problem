@@ -12,7 +12,7 @@ Step 2
 sudo apt install love
 ```
 # How it works
+This  function prepares possibilities for selection:
 ```lua
 NormalizeFitness()
 ```
-This  function prepares possibilities for selection
