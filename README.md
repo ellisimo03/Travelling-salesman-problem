@@ -20,6 +20,7 @@ love geneticAlgorithm
 # How it works
 
 First of all, I need to populate
+
 This  function prepares possibilities for selection:
 ```lua
 NormalizeFitness()
