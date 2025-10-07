@@ -11,6 +11,12 @@ Step 2
 ```linux 
 sudo apt install love
 ```
+Step 3 
+- Run the genetic algorithm in the Travelling-salesman-problem directory
+```linux 
+love geneticAlgorithm
+```
+
 # How it works
 This  function prepares possibilities for selection:
 ```lua
