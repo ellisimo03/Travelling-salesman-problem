@@ -23,9 +23,9 @@ Here I will explain how the algorithm works in a clear and straighforward way so
 
 Population:
 - I start off by selecting the population size
-  -- This can range quite a bit 
+- - This can range quite a bit 
 - Each member of the population has a unique route (their DNA)
-  -- you fill up the population size with loads of different solutions to the problem
+- - you fill up the population size with loads of different solutions to the problem
 
 
 Fitness:
@@ -38,5 +38,5 @@ Fitness:
 Crossover and Mutation:
 - Here, you take the best members (parents) from the population (which you chose in the fitness fuction) and "breed" them to create "offspring"
 - You take two members' DNA and combine them
-  -- The idea is that you take parts of one parent member which you like and combine it with the parts of another parent member which you like as well
+- - The idea is that you take parts of one parent member which you like and combine it with the parts of another parent member which you like as well
 - I then randomly take each part of the parents DNA and combine them, repeating this process until it no longer improves.
