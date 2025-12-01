@@ -33,7 +33,7 @@ Fitness:
 - In the fitness function, you use this to decide which members or "parents" of the population to discard and to keep
 - Naturally, you want to keep the members with the best results for your specific scenario
 - In this scenario I choose the members with the lowest route cost
-- This idea is based off Charles Darwin's  theory of "survival of the fittest"
+- This idea is based off Charles Darwin's  theory of evolution
 - The better the solution, the higher the chance of being selected to reproduce.
 
 
